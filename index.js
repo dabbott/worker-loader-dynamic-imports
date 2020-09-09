@@ -1,1 +1,1 @@
-import("./worker");
+import worker from "./worker";
